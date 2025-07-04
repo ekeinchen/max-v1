@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/beeb9b6a-bc4c-410d-b837-e445cfa2dc74)# max-v1
 3Dmax测量脚本
 使用说明：
 1，拖进去3Dmax窗口即可生效
